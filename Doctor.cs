@@ -1,10 +1,12 @@
 ﻿using System;
 
 public class Doctor
-
+	
 
 {
-	public Doctor()
+    public string Name { get; set; }
+
+    public Doctor()
 	{
 
 	}
